@@ -68,7 +68,7 @@ def main():
         print("==================================================")
         print("            @Linuztuxx IP TRACER v1               ")
         print("==================================================")
-        print("      Github: https://github.com/linuztuxx        ")
+        print("      Github: https://github.com/linuztx          ")
         print("==================================================")
 
         current_time = datetime.now().strftime("%I:%M:%S %p")
